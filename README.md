@@ -45,36 +45,37 @@ Drag and drop: Close your hand into a fist and move it around to drag and drop o
 
 Right-click: Raise your index finger while keeping the other fingers closed.
 
-![Screenshot 2024-03-14 210728](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/d6c54ad5-b322-4a82-9064-76e4b8290344)
+![Screenshot 2024-03-14 210728](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/26728136-a45d-4972-9e4a-128312c0d1f6)
 
 
 Left-click: Raise your middle finger while keeping the other fingers closed.
 
-![Screenshot 2024-03-14 212115](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/49e94ec4-aa3f-4fba-89d0-6df33d9b48df)
+![Screenshot 2024-03-14 212115](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/06dd5efa-9dc8-499b-a874-5fa956d3c2d4)
 
 
 Double-click: Raise your index and middle finger while keeping the other fingers closed.
 
-![Screenshot 2024-03-14 210743](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/16dcf06f-fd1c-49d5-b81d-db6d8fc28d73)
+![Screenshot 2024-03-14 212340](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/11d5f6fc-56f8-470e-ab5c-e6af560da8d5)
 
 
 Scroll up: Move your index and middle finger towards the screen.
 
-  ![Screenshot 2024-03-14 210841](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/d091c53b-64d1-417a-9f0c-9061953b3fe5)
+![Screenshot 2024-03-14 210841](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/6c67d679-260b-4c16-8fd4-53ea419379ce)
 
 
 Scroll down: Move your index and middle finger away from the screen.
 
-  ![Screenshot 2024-03-14 210830](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/70fac155-7dd8-4dae-b142-05b8ea137a60)
-
+ ![Screenshot 2024-03-14 212537](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/7f6abc35-0c87-474e-a374-78a59a88022e)
 
 Zoom in: Pinch your index finger and thumb together.
 
-![Screenshot 2024-03-14 210800](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/3bf4f061-8395-4410-8407-5b49b2361554)
+![Screenshot 2024-03-14 210800](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/85e142ba-2708-41e9-869c-c0a57974ddd5)
+
 
 Zoom out: Spread your index finger and thumb apart.
 
- ![Screenshot 2024-03-14 210821](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/90c62439-6cdd-449d-a2b8-51a8c8e6654b)
+![Screenshot 2024-03-14 212513](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/eb0cce49-8c92-4882-a2e6-86e4226b4f6a)
+
  
 
 
