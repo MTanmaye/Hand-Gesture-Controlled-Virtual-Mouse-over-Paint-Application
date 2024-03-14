@@ -67,4 +67,15 @@ Zoom out: Spread your index finger and thumb apart.
 
      Zooming_out
 
-Demo
+
+# How it Works
+The program uses the Mediapipe library to detect hand landmarks from the video captured by the webcam. The controller.py file contains the logic for mapping the hand landmarks to specific mouse cursor actions, such as movement and clicking.
+
+# Limitations
+The program currently only supports controlling a single mouse cursor, and it may not work well in low-light conditions. It also doesn't support handling gestures of more than one hand, however this is easy to overcome, may be in comming commits of this project.
+
+# License
+This project is licensed under the Apache License 2.0. The Apache License 2.0 is a permissive license that allows you to freely use, modify, distribute, and sell the software.
+
+Feel free to use, modify and distribute the code as you see fit under the terms of the Apache License 2.0. For more information, please refer to the LICENSE file in the root of the project directory.
+
