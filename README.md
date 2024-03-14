@@ -29,7 +29,8 @@ After installing the required libraries, run the app.py file in a Python environ
 
 Cursor moving: Raise all fingers together and move your hand to move the cursor and control it.
 
-![pgmmjttp](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/2ff8eae4-710f-40b6-a577-601d96bbf000)
+![Screenshot 2024-03-14 211958](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/459d332e-404f-4a9a-bb37-d34320fef6dd)
+
 
 
 Cursor freezing: Close your thumb and Raise all other fingers together freeze the cursor and prevent it from moving.
@@ -49,7 +50,7 @@ Right-click: Raise your index finger while keeping the other fingers closed.
 
 Left-click: Raise your middle finger while keeping the other fingers closed.
 
-![Screenshot 2024-03-14 210718](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/0e8c7ac0-04f7-4915-9cc6-42955f0b7d2a)
+![Screenshot 2024-03-14 212115](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/49e94ec4-aa3f-4fba-89d0-6df33d9b48df)
 
 
 Double-click: Raise your index and middle finger while keeping the other fingers closed.
