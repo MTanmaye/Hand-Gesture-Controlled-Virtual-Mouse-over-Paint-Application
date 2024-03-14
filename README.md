@@ -29,7 +29,8 @@ After installing the required libraries, run the app.py file in a Python environ
 
 Cursor moving: Raise all fingers together and move your hand to move the cursor and control it.
 
-![Screenshot 2024-03-14 210148](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/3c115834-551f-4bcf-9922-6d4d8e3f9129)
+![pgmmjttp](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/2ff8eae4-710f-40b6-a577-601d96bbf000)
+
 
 Cursor freezing: Close your thumb and Raise all other fingers together freeze the cursor and prevent it from moving.
 
