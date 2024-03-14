@@ -60,24 +60,32 @@ Double-click: When the thumb finger and the ring finger touch each other.
 
 Scroll up: Raise little finger and close all other fingers.
 
-![Screenshot 2024-03-14 210841](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/6c67d679-260b-4c16-8fd4-53ea419379ce)
-
+![b20q9gph](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/232f6130-f343-43a3-afb3-fb4cbeff0a3a)
 
 Scroll down: Raise index finger along with thumb finger and close all other fingers.
 
  ![Screenshot 2024-03-14 212537](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/7f6abc35-0c87-474e-a374-78a59a88022e)
 
-Zoom in: Raise index figer with middle finger with gap betwwen fingers and all other fingers are closed.
+Zoom in: Raise index finger with middle finger with gap betwwen fingers and all other fingers are closed.
 
-![Screenshot 2024-03-14 210800](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/85e142ba-2708-41e9-869c-c0a57974ddd5)
+![i7d96wmn](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/433f030b-40f2-471f-8547-cb64bc00840e)
 
 
-Zoom out: Raise index figer with middle finger with no gap betwwen fingers and all other fingers are closed.
+Zoom out: Raise index finger with middle finger with no gap betwwen fingers and all other fingers are closed.
 
 ![Screenshot 2024-03-14 212513](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/eb0cce49-8c92-4882-a2e6-86e4226b4f6a)
 
- 
+ Choosing the tool: Raise index finger and all other fingers are closed.
 
+![Screenshot 2024-03-14 212612](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/7658146a-ade8-4e53-a532-a29e149394ca)
+
+ 
+Using the tool: Raise index finger with middle finger and all other fingers are closed.
+
+![Screenshot 2024-03-14 212700](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/96ec2cc5-4129-4990-9e7c-58a23dcaf212)
+
+
+Saving the Image: Raise index finger and little finger and all other fingers are closed.
 
 # How it Works
 The program uses the Mediapipe library to detect hand landmarks from the video captured by the webcam. The controller.py file contains the logic for mapping the hand landmarks to specific mouse cursor actions, such as movement and clicking.
