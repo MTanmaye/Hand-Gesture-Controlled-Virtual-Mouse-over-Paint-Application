@@ -33,39 +33,47 @@ Cursor moving: Raise all fingers together and move your hand to move the cursor 
 
 Cursor freezing: Close your thumb and Raise all other fingers together freeze the cursor and prevent it from moving.
 
-     Mouse_freezing
+![Screenshot 2024-03-14 210700](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/5fc382b3-c77f-46ff-a414-d322491611a2)
+
 
 Drag and drop: Close your hand into a fist and move it around to drag and drop objects.
 
-     Drag
+![Screenshot 2024-03-14 210811](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/fe06ae91-15e4-45b6-97bb-2bcece1b26e2)
+
 
 Right-click: Raise your index finger while keeping the other fingers closed.
 
-     Right_click
+![Screenshot 2024-03-14 210728](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/d6c54ad5-b322-4a82-9064-76e4b8290344)
+
 
 Left-click: Raise your middle finger while keeping the other fingers closed.
 
-     Left_click
+![Screenshot 2024-03-14 210718](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/0e8c7ac0-04f7-4915-9cc6-42955f0b7d2a)
+
 
 Double-click: Raise your index and middle finger while keeping the other fingers closed.
 
-     Double_click
+![Screenshot 2024-03-14 210743](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/16dcf06f-fd1c-49d5-b81d-db6d8fc28d73)
+
 
 Scroll up: Move your index and middle finger towards the screen.
 
-     Scrolling_up
+  ![Screenshot 2024-03-14 210841](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/d091c53b-64d1-417a-9f0c-9061953b3fe5)
+
 
 Scroll down: Move your index and middle finger away from the screen.
 
-     Scrolling_down
+  ![Screenshot 2024-03-14 210830](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/70fac155-7dd8-4dae-b142-05b8ea137a60)
+
 
 Zoom in: Pinch your index finger and thumb together.
 
-     Zooming_in
+![Screenshot 2024-03-14 210800](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/3bf4f061-8395-4410-8407-5b49b2361554)
 
 Zoom out: Spread your index finger and thumb apart.
 
-     Zooming_out
+ ![Screenshot 2024-03-14 210821](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/90c62439-6cdd-449d-a2b8-51a8c8e6654b)
+ 
 
 
 # How it Works
