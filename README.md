@@ -23,3 +23,48 @@ Or you can use the following command using pip to avoid any library version issu
 
 pip install -r requirements.txt
 
+
+# How to Run
+After installing the required libraries, run the app.py file in a Python environment with a webcam. The program will start capturing video from the webcam, and the mouse cursor can be controlled using the following hand gestures:
+
+Cursor moving: Raise all fingers together and move your hand to move the cursor and control it.
+
+     Mouse_moving
+
+Cursor freezing: Close your thumb and Raise all other fingers together freeze the cursor and prevent it from moving.
+
+     Mouse_freezing
+
+Drag and drop: Close your hand into a fist and move it around to drag and drop objects.
+
+     Drag
+
+Right-click: Raise your index finger while keeping the other fingers closed.
+
+     Right_click
+
+Left-click: Raise your middle finger while keeping the other fingers closed.
+
+     Left_click
+
+Double-click: Raise your index and middle finger while keeping the other fingers closed.
+
+     Double_click
+
+Scroll up: Move your index and middle finger towards the screen.
+
+     Scrolling_up
+
+Scroll down: Move your index and middle finger away from the screen.
+
+     Scrolling_down
+
+Zoom in: Pinch your index finger and thumb together.
+
+     Zooming_in
+
+Zoom out: Spread your index finger and thumb apart.
+
+     Zooming_out
+
+Demo
