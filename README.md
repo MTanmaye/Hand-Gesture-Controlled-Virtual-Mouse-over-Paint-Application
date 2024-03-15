@@ -87,6 +87,8 @@ Using the tool: Raise index finger with middle finger and all other fingers are 
 
 Saving the Image: Raise index finger and little finger and all other fingers are closed.
 
+![Save](https://github.com/MTanmaye/Hand-Gesture-Controlled-Virtual-Mouse-over-Paint-Application/assets/114095621/8ea7bb79-6d03-4b96-b62c-7973a549b4a3)
+
 # How it Works
 The program uses the Mediapipe library to detect hand landmarks from the video captured by the webcam. The controller.py file contains the logic for mapping the hand landmarks to specific mouse cursor actions, such as movement and clicking. In the same way virtual_paint_app.py file contains logic for performing painr operations.
 
